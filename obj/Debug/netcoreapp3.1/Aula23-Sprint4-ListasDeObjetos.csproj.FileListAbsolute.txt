@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\obj\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\obj\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\obj\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\obj\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\bin\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.exe
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\bin\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\bin\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\bin\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\bin\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.dll
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\bin\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\obj\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.dll
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\obj\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula23-Sprint4-ListasDeObjetos\obj\Debug\netcoreapp3.1\Aula23-Sprint4-ListasDeObjetos.genruntimeconfig.cache
